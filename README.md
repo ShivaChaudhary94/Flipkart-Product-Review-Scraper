@@ -2,7 +2,8 @@
 
 A web scraping and Flask application to collect Flipkart product reviews, ratings, and comments, store them in MongoDB, and provide a simple web interface for querying products. This project demonstrates data collection, data cleaning, database integration, and basic web development.
 
-🛠️ Features
+
+# 🛠️ Features
 
 ~Scrape product links, names, ratings, and reviews from Flipkart.
 
@@ -18,7 +19,7 @@ A web scraping and Flask application to collect Flipkart product reviews, rating
 
 
 
-⚡ Technologies Used
+# ⚡ Technologies Used
 
 ~Python 3.x
 
@@ -37,7 +38,7 @@ A web scraping and Flask application to collect Flipkart product reviews, rating
 
 
 
-⚙️ Usage
+# ⚙️ Usage
 
 ~Enter a product search query (e.g., mobile phone) in the input box.
 
