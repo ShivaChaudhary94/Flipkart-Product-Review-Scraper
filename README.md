@@ -21,7 +21,7 @@ A web scraping and Flask application to collect Flipkart product reviews, rating
 
 # ⚡ Technologies Used
 
-~Python 3.x
+~Python 3.13.1
 
 ~Flask – for the web application
 
